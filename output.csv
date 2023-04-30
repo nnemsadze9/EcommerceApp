@@ -1,0 +1,5 @@
+Order Report
+Product ID,Product Name,Quantity,Price,COGS,Selling Price
+prod001,iphone,5,4000,17500.0,3500
+prod001,iphone,10,4000,38000.0,3800
+prod001,iphone,15,4000,60000.0,4000
